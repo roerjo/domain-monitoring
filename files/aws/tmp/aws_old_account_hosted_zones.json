@@ -1,0 +1,321 @@
+[
+    {
+        "Id": "/hostedzone/Z1F9C8YX9SXM0F",
+        "Name": "technologyadvice.com.",
+        "CallerReference": "C1C1B786-B360-96FF-A791-99512BF054E7",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 209
+    },
+    {
+        "Id": "/hostedzone/ZDP1GYRB7A6AU",
+        "Name": "techadv.co.",
+        "CallerReference": "01A120AD-83CA-471F-BB5A-AB692335E6B8",
+        "Config": {
+            "Comment": "Redirection URL",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z19SQ5V3RLA4ZP",
+        "Name": "mycampaignmanager.net.",
+        "CallerReference": "3BECEAC6-6294-6826-996F-34B646019108",
+        "Config": {
+            "Comment": "All MCM Records",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 23
+    },
+    {
+        "Id": "/hostedzone/Z3P46A3M2NY8F9",
+        "Name": "authorsolutionsportal.com.",
+        "CallerReference": "C9E771BE-2134-F66E-9413-AE05D3A5EB5E",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 11
+    },
+    {
+        "Id": "/hostedzone/Z3LTYF96R5G5BO",
+        "Name": "technology.marketing.",
+        "CallerReference": "DF084E3D-2C5E-0818-9F13-67768B9A4C54",
+        "Config": {
+            "Comment": "Generic services",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 12
+    },
+    {
+        "Id": "/hostedzone/ZAC5RQ19BRH2",
+        "Name": "taplatform.net.",
+        "CallerReference": "DA81B913-3A65-7134-AD04-B9B6329CAE37",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 40
+    },
+    {
+        "Id": "/hostedzone/Z47SGUUEPKC2Y",
+        "Name": "inteledemand.com.",
+        "CallerReference": "996C24CF-D0BE-4618-A3D4-17E9640D4629",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/ZYXLXV7LGJV6D",
+        "Name": "nashcocktail.com.",
+        "CallerReference": "D0685D89-CF15-CAB3-87BE-19FCF019F6DA",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z1AXQXWS80WGCB",
+        "Name": "ctoadvice.co.",
+        "CallerReference": "A5E8102E-EE6E-280D-A919-1394A37C0889",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 44
+    },
+    {
+        "Id": "/hostedzone/Z2N9FOT42X6OJN",
+        "Name": "cfoadvice.co.",
+        "CallerReference": "8A0C7532-7E92-B555-976D-142FBE458337",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 27
+    },
+    {
+        "Id": "/hostedzone/ZLOYF9M712237",
+        "Name": "cmoadvice.co.",
+        "CallerReference": "396887AE-5339-8AE9-A053-6BDF5A5D7D85",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 27
+    },
+    {
+        "Id": "/hostedzone/Z2T6YFAROBFM2H",
+        "Name": "advicebrands.com.",
+        "CallerReference": "E2C1ECA2-9242-82FF-B832-1489BAE84BD3",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 31
+    },
+    {
+        "Id": "/hostedzone/Z1RYFYFD5Y2W72",
+        "Name": "securityadvice.co.",
+        "CallerReference": "7A3D14E1-384F-15B6-81C8-D89FA382F172",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 27
+    },
+    {
+        "Id": "/hostedzone/Z2A0KIKME5HK87",
+        "Name": "customeradvice.co.",
+        "CallerReference": "64F82B9E-E35A-84C2-B8E7-14B23FEE212A",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 25
+    },
+    {
+        "Id": "/hostedzone/ZAAGKXCKHNVUJ",
+        "Name": "managementadvice.co.",
+        "CallerReference": "8223EADA-70FB-3451-91C7-52AB88FC2291",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 25
+    },
+    {
+        "Id": "/hostedzone/Z7IA7GZCLL3I2",
+        "Name": "hradvice.co.",
+        "CallerReference": "3F03A334-F660-6DA1-9019-B0E0DA0485AD",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 26
+    },
+    {
+        "Id": "/hostedzone/Z14LI7PGY1DTSS",
+        "Name": "salesadvice.biz.",
+        "CallerReference": "D71974C9-6281-52DF-B8F0-411EC130F2DF",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 25
+    },
+    {
+        "Id": "/hostedzone/Z1FQRFWN1U8UJ3",
+        "Name": "demandgensimplified.com.",
+        "CallerReference": "E622629E-0760-7ACF-94E1-A062F86989A8",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z39BAKI47TIWRC",
+        "Name": "callcenteru.net.",
+        "CallerReference": "36231B2D-CAA7-6434-8EFF-088950606CDE",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 9
+    },
+    {
+        "Id": "/hostedzone/Z1SS514FI5UNRS",
+        "Name": "themarketingbrief.net.",
+        "CallerReference": "05155F74-6F2A-2AE6-B14A-F0FD26A3DF2C",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/ZOZAMLT4JATFU",
+        "Name": "thehrbrief.com.",
+        "CallerReference": "68356CF4-D077-C1C0-9273-5405E91296CA",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z1CB8B3612HWO0",
+        "Name": "downloadwhitepaper.net.",
+        "CallerReference": "4FAAB54B-7DE5-90FD-9EA3-2D8A2C463AA5",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/ZEB7D8ATTUU9U",
+        "Name": "thrivemg.com.",
+        "CallerReference": "3F180B3F-0105-5345-96DA-E0A5391B5859",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 16
+    },
+    {
+        "Id": "/hostedzone/ZP7VO4V0OO2SD",
+        "Name": "funneladvice.com.",
+        "CallerReference": "395F5205-BC3C-C6DB-ACA8-0AD0451E8033",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z3PXQC10LANU6M",
+        "Name": "intellidemand.com.",
+        "CallerReference": "46D46866-8C92-73AF-871D-7FEEBB7FE335",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 5
+    },
+    {
+        "Id": "/hostedzone/ZVG1CA58R3363",
+        "Name": "avanimedia.com.",
+        "CallerReference": "5BDAB42D-9FB3-4E62-90FD-44D47DCB11CB",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 7
+    },
+    {
+        "Id": "/hostedzone/Z1FIOAVG05ICNV",
+        "Name": "itresearchbytes.com.",
+        "CallerReference": "6103F27B-1A77-5E2E-9593-F33FD13394E9",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z1JWQJU044QMD2",
+        "Name": "itbusinessguide.com.",
+        "CallerReference": "A56F3920-73F1-3194-9BBE-0692B12E2C62",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z3I8Y2G5UH5C81",
+        "Name": "fargate-test.",
+        "CallerReference": "woh2c5kcni4wuapipscfcbhpz7ajszux-jnc45us9",
+        "Config": {
+            "Comment": "Created by Route 53 Auto Naming",
+            "PrivateZone": true
+        },
+        "ResourceRecordSetCount": 2,
+        "LinkedService": {
+            "ServicePrincipal": "servicediscovery.amazonaws.com",
+            "Description": "arn:aws:servicediscovery:us-east-1:304635212403:namespace/ns-6ocbfilerf5cz4q6"
+        }
+    },
+    {
+        "Id": "/hostedzone/Z8M44O5MOQ65B",
+        "Name": "partnerportal.technology.",
+        "CallerReference": "FC1C82B5-35DA-27AF-A70B-466C8AE8853C",
+        "Config": {
+            "Comment": "For Partner Portal",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z06185156XDNGFYIRZQP",
+        "Name": "operationsadvice.co.",
+        "CallerReference": "2B71FA57-27BF-035F-A278-95CFE72075BC",
+        "Config": {
+            "Comment": "",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 8
+    },
+    {
+        "Id": "/hostedzone/Z07091552DYE7VFWZJ4DG",
+        "Name": "softwarecritic.com.",
+        "CallerReference": "1105A041-CA13-0B12-820A-DBF7915E70C2",
+        "Config": {
+            "Comment": "",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 9
+    },
+    {
+        "Id": "/hostedzone/Z0145460306Z4N40CVQJ",
+        "Name": "aqueduct.technologyadvice.com.",
+        "CallerReference": "D0AA5482-3BEB-E0F1-B2EC-513CFDF70AA0",
+        "Config": {
+            "Comment": "Private DNS for AQD",
+            "PrivateZone": true
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z01440823JI84UEYTQN64",
+        "Name": "m3.technology.marketing.",
+        "CallerReference": "FFC25A89-3BCD-940B-99C2-1D3D2EF6F7A4",
+        "Config": {
+            "Comment": "Private DNS for accessing M3",
+            "PrivateZone": true
+        },
+        "ResourceRecordSetCount": 6
+    }
+]

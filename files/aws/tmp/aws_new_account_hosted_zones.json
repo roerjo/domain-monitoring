@@ -1,0 +1,1796 @@
+[
+    {
+        "Id": "/hostedzone/ZR7QHK1RWBELJ",
+        "Name": "crm-software-application.com.",
+        "CallerReference": "1ABBC57B-E634-C758-843A-60BABBFB7C35",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 6
+    },
+    {
+        "Id": "/hostedzone/Z2IV2DZVZALR1D",
+        "Name": "careersinhouston.com.",
+        "CallerReference": "1D1774EF-BEFD-9A87-AD42-3BE12F0169EE",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 5
+    },
+    {
+        "Id": "/hostedzone/ZA2WK2LFUITTC",
+        "Name": "famundo.com.",
+        "CallerReference": "9420EE16-442E-2CBD-901B-F69109803E69",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 6
+    },
+    {
+        "Id": "/hostedzone/Z3GOW00B1R73K7",
+        "Name": "pmhut.com.",
+        "CallerReference": "BFB67795-1DEB-59EC-B90F-227D431BB8B8",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 9
+    },
+    {
+        "Id": "/hostedzone/Z2W82RDWW02WW4",
+        "Name": "curioso.org.",
+        "CallerReference": "A25BB2F3-2B2F-5296-ACE9-F666ECF83221",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 6
+    },
+    {
+        "Id": "/hostedzone/Z10PKCV1FC495C",
+        "Name": "dabbledb.com.",
+        "CallerReference": "01A6905E-B909-9DF9-9939-8CDF7F0EFFA4",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 6
+    },
+    {
+        "Id": "/hostedzone/Z1A7V5BAESESXA",
+        "Name": "inventiondb.com.",
+        "CallerReference": "89E4808F-125B-A5BE-B411-0CB671745511",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 6
+    },
+    {
+        "Id": "/hostedzone/Z1CGIAUFEZYE2U",
+        "Name": "project-management-center.com.",
+        "CallerReference": "1F54092C-20CB-6E8C-96D9-E26F505EBB86",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 6
+    },
+    {
+        "Id": "/hostedzone/Z1MEZ0SWVWSXWG",
+        "Name": "isolsoft.com.",
+        "CallerReference": "349D7F1C-EF87-77D5-B002-E9FDCB441419",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 6
+    },
+    {
+        "Id": "/hostedzone/Z37CAS070HT01Z",
+        "Name": "pm-sherpa.com.",
+        "CallerReference": "CC3EDE52-4502-3DCD-A3C5-6A1E74DD3028",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 6
+    },
+    {
+        "Id": "/hostedzone/ZF0VQZU9L1QS",
+        "Name": "pm411.org.",
+        "CallerReference": "5054616E-269C-CE68-9723-153D5784CED9",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 6
+    },
+    {
+        "Id": "/hostedzone/Z2O7A36MST654E",
+        "Name": "project-management-software.com.",
+        "CallerReference": "A8A2EC71-9D11-1BE8-B552-3108C3C9594E",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 5
+    },
+    {
+        "Id": "/hostedzone/ZVFT33PLA01IV",
+        "Name": "project-management-software.org.",
+        "CallerReference": "64BCDBA5-FA58-6B9B-BC41-5DC854B5D0AF",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 5
+    },
+    {
+        "Id": "/hostedzone/Z7QHNJYOSPMI4",
+        "Name": "project-management.com.",
+        "CallerReference": "542B7AA3-7515-94BC-A4BD-116A4DC04AE9",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 24
+    },
+    {
+        "Id": "/hostedzone/ZRDXE5U4GI9Q2",
+        "Name": "project-management.org.",
+        "CallerReference": "CB8FF018-9654-4AEA-A994-70506713FD0A",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 5
+    },
+    {
+        "Id": "/hostedzone/Z265A9KKPRUWWH",
+        "Name": "project-management-tools.net.",
+        "CallerReference": "E8233FF1-43FE-0A5F-9144-3813074A67ED",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 5
+    },
+    {
+        "Id": "/hostedzone/Z2OA7977DDIHSI",
+        "Name": "projectmgt.com.",
+        "CallerReference": "77F47D41-14F6-A8B8-95A4-AAD2C7A21B74",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 5
+    },
+    {
+        "Id": "/hostedzone/Z3PFGLYJ2BQDEX",
+        "Name": "theinternationalpm.com.",
+        "CallerReference": "0EBD0C83-6231-1C74-A113-B2E37E40DF48",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 5
+    },
+    {
+        "Id": "/hostedzone/ZSFNESOACSSSG",
+        "Name": "whybasecampsux.org.",
+        "CallerReference": "3B0138A6-8A1A-7A61-A663-A4DB760C6803",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 5
+    },
+    {
+        "Id": "/hostedzone/Z3V88I1HCR8RUI",
+        "Name": "schemequest.com.",
+        "CallerReference": "8DFA51DC-94BF-9525-B27B-E5BD4364D8AC",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 5
+    },
+    {
+        "Id": "/hostedzone/Z12HLVAETCAX54",
+        "Name": "ravensbrain.com.",
+        "CallerReference": "E8E2B011-4082-532C-BA82-6E5228454969",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 5
+    },
+    {
+        "Id": "/hostedzone/Z3N6KB3XRSM3YR",
+        "Name": "projectmagazine.com.",
+        "CallerReference": "33311AD7-70C1-A906-961B-9CF3BDFEC7CA",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 5
+    },
+    {
+        "Id": "/hostedzone/Z1KOO38DMDK8IL",
+        "Name": "skrubcrm.com.",
+        "CallerReference": "37708D2E-3EB6-077C-9D6A-E2A98C95DD50",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 5
+    },
+    {
+        "Id": "/hostedzone/Z2M3YVR3A6WM9D",
+        "Name": "tuggo.org.",
+        "CallerReference": "AE834B93-9F25-952F-BFBF-814366D0075E",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 5
+    },
+    {
+        "Id": "/hostedzone/ZMNYLLCPFV8OD",
+        "Name": "web-based-software.com.",
+        "CallerReference": "59CB08DE-FAB4-93A9-BC06-287C3F222D5E",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 5
+    },
+    {
+        "Id": "/hostedzone/Z16SFMONTCPUYQ",
+        "Name": "relay.cool.",
+        "CallerReference": "0798EBA3-CB68-D812-AFAC-D119BFA1A5D2",
+        "Config": {
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 46
+    },
+    {
+        "Id": "/hostedzone/Z0923823C2E0XXSMH6V6",
+        "Name": "dbasupport.com.",
+        "CallerReference": "BE411908-22BA-39DA-967B-5CA6357618D7",
+        "Config": {
+            "Comment": "Forum site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 18
+    },
+    {
+        "Id": "/hostedzone/Z10131201GO91GXRQX08X",
+        "Name": "softwarecritic.com.",
+        "CallerReference": "E2874A8E-607A-11ED-BD03-6EBB1C2A7333",
+        "Config": {
+            "Comment": "",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z07954048C5K9HDZANH3",
+        "Name": "demandfest.tech.",
+        "CallerReference": "6887875e-dcdf-4fcb-8269-d6f21daabbc0",
+        "Config": {
+            "Comment": "",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 3
+    },
+    {
+        "Id": "/hostedzone/Z08390531QVEZA0SD3AUY",
+        "Name": "eweek.com.",
+        "CallerReference": "a23c8597-6cd8-42fb-96d9-1ee4f2726374",
+        "Config": {
+            "Comment": "WP Engine hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 139
+    },
+    {
+        "Id": "/hostedzone/Z083899617TMCUWFVZHAM",
+        "Name": "developer.com.",
+        "CallerReference": "07eddab1-3457-4a19-a878-f88071e4a96a",
+        "Config": {
+            "Comment": "WP Engine hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 45
+    },
+    {
+        "Id": "/hostedzone/Z0838291Q01J662AUNXV",
+        "Name": "4guysfromrolla.com.",
+        "CallerReference": "a759568a-c9c2-4fff-b7aa-3b556fd2b8ca",
+        "Config": {
+            "Comment": "QS-hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 11
+    },
+    {
+        "Id": "/hostedzone/Z08382131YPU1O1M1FQNM",
+        "Name": "cioinsight.com.",
+        "CallerReference": "d603bda2-b66f-4bb7-a4e3-b185d67d7f8d",
+        "Config": {
+            "Comment": "WP Engine hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 35
+    },
+    {
+        "Id": "/hostedzone/Z08382513RIVGCQFJJSD4",
+        "Name": "itbusinessedge.com.",
+        "CallerReference": "fd0749c4-22a3-4597-9794-4fb7c2b16e32",
+        "Config": {
+            "Comment": "WP Engine hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 64
+    },
+    {
+        "Id": "/hostedzone/Z08379002J4K6VH3IGPHV",
+        "Name": "enterprisenetworkingplanet.com.",
+        "CallerReference": "aa004c21-51c1-46d6-8885-5d5f6020d849",
+        "Config": {
+            "Comment": "WP Engine hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 18
+    },
+    {
+        "Id": "/hostedzone/Z0837617B0DP0SVEBOGR",
+        "Name": "datamation.com.",
+        "CallerReference": "15ccf98f-548b-4a9c-8846-64efd62394a7",
+        "Config": {
+            "Comment": "WP Engine hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 21
+    },
+    {
+        "Id": "/hostedzone/Z08366043VLXEPPJZK059",
+        "Name": "infostor.com.",
+        "CallerReference": "b649bb0e-0d29-481c-8f5f-fcba3a6b0b1b",
+        "Config": {
+            "Comment": "QS-hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 15
+    },
+    {
+        "Id": "/hostedzone/Z0836280CJWCQJJRQQWH",
+        "Name": "itchannelplanet.com.",
+        "CallerReference": "090cdd38-62e3-42c6-8911-cd6f33ffab43",
+        "Config": {
+            "Comment": "QS-hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 10
+    },
+    {
+        "Id": "/hostedzone/Z0835898TZHMTP2Q3KVL",
+        "Name": "migrationexpertzone.com.",
+        "CallerReference": "b263e959-db03-442e-9738-55802d7dfe5b",
+        "Config": {
+            "Comment": "QS-hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 11
+    },
+    {
+        "Id": "/hostedzone/Z08433113879M0XTOSQJF",
+        "Name": "jguru.com.",
+        "CallerReference": "26e3beb7-70c7-403e-93bd-dfe1d3b8aea8",
+        "Config": {
+            "Comment": "QS-hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 12
+    },
+    {
+        "Id": "/hostedzone/Z06365253M7GWGMUU0966",
+        "Name": "eweekuk.com.",
+        "CallerReference": "cd872f06-3279-4f7c-a3cb-e41874c0e26c",
+        "Config": {
+            "Comment": "",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z0220911FAAQS66UXE19",
+        "Name": "activebizpro.com.",
+        "CallerReference": "7c591160-07b7-4dbb-bcce-a1de10497bd8",
+        "Config": {
+            "Comment": "TR site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z022062520MR5PWGWK5U1",
+        "Name": "activeitpro.asia.",
+        "CallerReference": "147bb614-54f1-4909-ae14-797692d19610",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z02202951R3QS9ZPQI7UJ",
+        "Name": "it-papers.com.",
+        "CallerReference": "13a2086c-991c-4e5e-8ab1-f967c76512ff",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z022007134N1Z8DRWYUZG",
+        "Name": "activeitpro.sg.",
+        "CallerReference": "4bf1aaa5-17ae-404a-bcd3-a3353b18963e",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 5
+    },
+    {
+        "Id": "/hostedzone/Z0219956CNWHS6ZWK6O8",
+        "Name": "activetechpro.asia.",
+        "CallerReference": "5bf2e83b-d7a1-41b2-83b0-edacaa4b8d1f",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z0219637MIJ14YTJZEIU",
+        "Name": "activebizpros.com.cn.",
+        "CallerReference": "0d82186b-a23c-4437-a48e-18dd9828c47b",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z02195343EM2FZ479TZHS",
+        "Name": "activeitpro.com.sg.",
+        "CallerReference": "952117ce-3239-4ede-98bd-d8de71d3b764",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 5
+    },
+    {
+        "Id": "/hostedzone/Z02196082199G92PZVYCZ",
+        "Name": "activeitpro.com.au.",
+        "CallerReference": "f91d10d8-ed51-4710-bb66-348033d90c79",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z02192172VY3QYPSTEBWR",
+        "Name": "australiandeveloper.com.au.",
+        "CallerReference": "fb3d064b-3687-4682-b247-fb9a45ecb194",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 7
+    },
+    {
+        "Id": "/hostedzone/Z07989033RDTATWY2Y4BV",
+        "Name": "techproresearch.com.",
+        "CallerReference": "6a9772e9-f6ac-4754-99db-74bea28b740e",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 41
+    },
+    {
+        "Id": "/hostedzone/Z07896106VGI55RMUMGB",
+        "Name": "techrepublic.fr.",
+        "CallerReference": "33ca2614-f8d7-4248-a4f5-314cb3f4c073",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z0788917G3GJAD1T903I",
+        "Name": "techepublic.com.",
+        "CallerReference": "a106b019-0c4e-4f9f-8ca1-a4ec54a93faa",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z078878313SVMVKPWG63A",
+        "Name": "techrepublic.com.au.",
+        "CallerReference": "781a8469-7280-493e-b7b8-2bd813880da9",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 7
+    },
+    {
+        "Id": "/hostedzone/Z07886763HKSLZISPOK9P",
+        "Name": "techrepublic.info.",
+        "CallerReference": "25a685b0-e1fe-4ae0-9e2f-d98a142638d4",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z078845015IKP56JIGOJM",
+        "Name": "technologyresourcelibrary.com.",
+        "CallerReference": "b2d62ff4-eb51-4142-a34e-c3d728053d8e",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z07883393SLI4LJFBTA0C",
+        "Name": "techrepublic.ca.",
+        "CallerReference": "7e417e72-e90a-4ff7-8dce-31526b87617c",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z07882322272M1ZSKGMR6",
+        "Name": "techrepublic.com.",
+        "CallerReference": "18447161-8994-47ee-bf02-65f95fb7a9a6",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z0787332F2LR1D997D8I",
+        "Name": "techrepublic.org.",
+        "CallerReference": "7aa22253-461b-48b8-9f49-3ab3abab1186",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z07868922UURTLKYKAFIL",
+        "Name": "techrepublic.jobs.",
+        "CallerReference": "da20d0ca-0e54-419c-b68f-61e55d37d6fb",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z07942443GIZ4RPZFHHPF",
+        "Name": "techrepublic.xn--fiqs8s.",
+        "CallerReference": "b24e10eb-c420-4235-8c7e-4ce10c3a0db3",
+        "Config": {
+            "Comment": "TR Site - Chinese China",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z0794112GJSP2SCA0UMH",
+        "Name": "techrepublic.me.",
+        "CallerReference": "195f013c-e630-4785-aeb6-2465f95bd750",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z07936269EHQES7M6UWD",
+        "Name": "techrepublic.tel.",
+        "CallerReference": "1e6319cf-3fac-47d7-a8b9-8f4e588ad55d",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z07926514X231JOFAQQV",
+        "Name": "techresearchpro.com.",
+        "CallerReference": "6faed43f-fc73-411e-8f45-d15c0a264ab0",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z0792585OTCWARMJ70BA",
+        "Name": "trstatic.com.",
+        "CallerReference": "773b438d-fef8-4cc8-af3a-e55c0b145725",
+        "Config": {
+            "Comment": "TR Sites",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 3
+    },
+    {
+        "Id": "/hostedzone/Z079196331I0YL2M4TAQZ",
+        "Name": "virusthreatcenter.com.",
+        "CallerReference": "3f5df129-2c74-443d-a68c-8ff106b2c67c",
+        "Config": {
+            "Comment": "TR Sites",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 22
+    },
+    {
+        "Id": "/hostedzone/Z0791693IJC9LYJ2ID2I",
+        "Name": "wwwtechrepublic.com.",
+        "CallerReference": "c82ce052-5322-4375-9c22-2dedafeb01df",
+        "Config": {
+            "Comment": "TR Sites",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z09201913PVT3IHKAX0L1",
+        "Name": "flashkit.com.",
+        "CallerReference": "F5B902D0-266E-8C24-BF24-918157D80D1D",
+        "Config": {
+            "Comment": "Forum site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 23
+    },
+    {
+        "Id": "/hostedzone/Z091972325PCOSQAHY2TU",
+        "Name": "codeguru.com.",
+        "CallerReference": "9F39DBED-CD95-12F3-8A86-D55B1E341BB3",
+        "Config": {
+            "Comment": "Forum site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 25
+    },
+    {
+        "Id": "/hostedzone/Z0265284S8XU1PPFKYGY",
+        "Name": "sharkyforums.com.",
+        "CallerReference": "05d39152-49b8-48e4-88f7-dbded900bbcd",
+        "Config": {
+            "Comment": "Forum site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 17
+    },
+    {
+        "Id": "/hostedzone/Z0263334BZAID6CONELG",
+        "Name": "justlinux.com.",
+        "CallerReference": "062F42AD-E1A9-E671-81E8-B63ED10AC8BF",
+        "Config": {
+            "Comment": "Forum site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 14
+    },
+    {
+        "Id": "/hostedzone/Z0902152SVGGRW57EF2H",
+        "Name": "webopedia.com.",
+        "CallerReference": "87d9a22a-059d-4bc6-b882-35c1e35bc44b",
+        "Config": {
+            "Comment": "WP Engine hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 49
+    },
+    {
+        "Id": "/hostedzone/Z09076642X1ST3YXA18AN",
+        "Name": "channelinsider.com.",
+        "CallerReference": "ab0abe49-7169-44c9-9b5c-afa888b2b5c0",
+        "Config": {
+            "Comment": "WPEngine Hosted Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 32
+    },
+    {
+        "Id": "/hostedzone/Z09072061ZUWV2WM6HEAO",
+        "Name": "enterprisemobiletoday.com.",
+        "CallerReference": "e24eecdf-5f92-496f-bfb3-eda748de696d",
+        "Config": {
+            "Comment": "QS-hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 11
+    },
+    {
+        "Id": "/hostedzone/Z09073741ASA622W8AZLA",
+        "Name": "enterprisestorageforum.com.",
+        "CallerReference": "84866c3e-8e40-4ec5-84c7-63ccb18d91b4",
+        "Config": {
+            "Comment": "WP Engine hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 16
+    },
+    {
+        "Id": "/hostedzone/Z0368282UL8F9DVACHEU",
+        "Name": "thechannelinsider.com.",
+        "CallerReference": "7db0a572-2f5c-46e1-97d2-bf13f9fe45df",
+        "Config": {
+            "Comment": "",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z0787620217TNS6YWF8LJ",
+        "Name": "activebizpros.co.uk.",
+        "CallerReference": "4164f507-564b-4a6e-8f35-3f7d4135e7ae",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z07869582JQ0ZAAFR924I",
+        "Name": "activeitpros.co.uk.",
+        "CallerReference": "58e6098b-f5d9-4958-b9ed-faef7e726105",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z07870382R8O1J3FF324I",
+        "Name": "activeitpros.com.cn.",
+        "CallerReference": "48d9f152-cc3e-416a-b06c-651eb5a80f57",
+        "Config": {
+            "Comment": "TR Site\n",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z07944311TA1IZFWPFLU0",
+        "Name": "activebizpro.com.tw.",
+        "CallerReference": "8318ee3e-42c5-4115-b7d8-1a068004f970",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z07940091GFMHU96TWEL8",
+        "Name": "activetechpro.com.",
+        "CallerReference": "4e6d50e1-ef5c-4445-ab6c-8ebf8b5d512d",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z0794170282H7C7W703XM",
+        "Name": "activetechpros.cn.",
+        "CallerReference": "57fbfd3e-879e-4d5b-9c9f-b451c970abf9",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z07941932FUC4GT9BAMZX",
+        "Name": "activetechpros.com.cn.",
+        "CallerReference": "ef5b368d-fe7a-46b5-a167-8c52dd9194f8",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z07939501BI09XFYM1XPT",
+        "Name": "activeitpros.asia.",
+        "CallerReference": "f850bfff-3642-4802-8e43-9ff50455060a",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z07938432NNUTZDT8KI4I",
+        "Name": "activeitpros.org.",
+        "CallerReference": "d0b28adc-edab-4c72-90ab-1dec5d09a237",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z07938451JNLD9EGFYM7S",
+        "Name": "activeitpros.sg.",
+        "CallerReference": "0929cbd7-34f6-4ddd-aa2f-96b980ac6a52",
+        "Config": {
+            "Comment": "TR site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z07938447043WA6YRX3Y",
+        "Name": "activesmb.com.",
+        "CallerReference": "a8660235-180f-44ce-9c15-88e8f2f7e5e8",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z0793624RGTVI5WKHTOO",
+        "Name": "activetechpro.com.au.",
+        "CallerReference": "030637e1-7960-4bc2-b503-9777acc8d0a6",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 5
+    },
+    {
+        "Id": "/hostedzone/Z07936283HFSXXF3T96U2",
+        "Name": "activetechpro.com.sg.",
+        "CallerReference": "d90954d6-123c-4f35-9f61-88ded17fa2d9",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 5
+    },
+    {
+        "Id": "/hostedzone/Z07937721UDZW9SVQY5WL",
+        "Name": "activetechpros.org.",
+        "CallerReference": "51202285-0f53-4bcb-aca6-228a788b5729",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z07934613FXL9H8S582VL",
+        "Name": "activeitpro.com.",
+        "CallerReference": "5f1d0fff-852f-478a-9c4f-eca3bdfce595",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z07932323UG3GP7PTNPVB",
+        "Name": "activeitpro.net.",
+        "CallerReference": "636f25ff-7d49-4447-9c60-85833caee5c1",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z07933532APAXMHECF39",
+        "Name": "activeitpros.cn.",
+        "CallerReference": "b423b546-bfab-4ab9-8e78-fab3e12dc277",
+        "Config": {
+            "Comment": "TR Site\n",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z0793336O8W29R1WT6BB",
+        "Name": "activesmbs.com.",
+        "CallerReference": "3639bc04-3cd2-4a15-811a-e32a6719347b",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z07933332O7NTEAGVCQP1",
+        "Name": "activetechpro.cn.",
+        "CallerReference": "92549c05-a231-4040-9248-df731043f322",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z07930811O10BRALEM91X",
+        "Name": "activeitpros.net.",
+        "CallerReference": "aacc9f1d-b643-4748-953c-a78948e81de1",
+        "Config": {
+            "Comment": "TR Site\n",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z07929991JEBGGZPJ2KU2",
+        "Name": "it-papers.fr.",
+        "CallerReference": "42516b09-a4dd-4444-ad2b-cefaa915de9f",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z0849435AR0TEN1FU965",
+        "Name": "technology-library.com.",
+        "CallerReference": "05cd6ae1-948f-4c40-9ce3-3b97abff04e2",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z08495812XJ2F1P95DR5C",
+        "Name": "techrepublic.asia.",
+        "CallerReference": "8e991f80-51d1-4751-acfa-c00f7dffb831",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z08486186OEJZZJD179C",
+        "Name": "techrepublic.mobi.",
+        "CallerReference": "74ba65ef-afd0-45e6-ba05-b4ade666c0c2",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z0848609TWS8WISPBK4A",
+        "Name": "techrepublic.net.",
+        "CallerReference": "43b0a382-cd83-4516-933f-0cc29f723d99",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z083776414UQHVVGH5HTM",
+        "Name": "techrepublic.reviews.",
+        "CallerReference": "fffcb69b-b851-466f-a591-6796c379c3ec",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z0836713ZYC9OPZQ0R4S",
+        "Name": "techrepublics.com.",
+        "CallerReference": "9d6c3939-10c7-4add-b6e4-b2ee7c567d0f",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z08357443TB7ZZ43D7Z0U",
+        "Name": "techrepulic.com.",
+        "CallerReference": "4a76879d-3667-453f-ab8d-28e296f5cf0e",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z08356611T5Y2E47CGWZK",
+        "Name": "tecrepublic.com.",
+        "CallerReference": "1c2462ff-a828-457b-9d60-dcffee51f2e1",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z09186331PL2T9C8ZR0DQ",
+        "Name": "antionline.com.",
+        "CallerReference": "1DCD984B-A23B-89A0-BF44-283E6D060629",
+        "Config": {
+            "Comment": "Forum site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 15
+    },
+    {
+        "Id": "/hostedzone/Z0917745T5NDP333KX8W",
+        "Name": "vbforums.com.",
+        "CallerReference": "873A6144-3AFF-B637-A294-A67CD38C774B",
+        "Config": {
+            "Comment": "Forum site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 15
+    },
+    {
+        "Id": "/hostedzone/Z092564812EY6A0RCCOXR",
+        "Name": "smallbusinesscomputing.com.",
+        "CallerReference": "8B0AC1C0-6AD1-7CC3-956B-C76B6FFF613F",
+        "Config": {
+            "Comment": "Forum site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 25
+    },
+    {
+        "Id": "/hostedzone/Z0925217ESFTQ2KF15VW",
+        "Name": "devx.com.",
+        "CallerReference": "D4E0320E-3DA6-2AAF-93B6-3DA5F2FD02A4",
+        "Config": {
+            "Comment": "Forum site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 42
+    },
+    {
+        "Id": "/hostedzone/Z09246773JWY640OE5AHW",
+        "Name": "sysopt.com.",
+        "CallerReference": "D9917172-3179-1834-B612-E01743CEC3A1",
+        "Config": {
+            "Comment": "Forum site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 14
+    },
+    {
+        "Id": "/hostedzone/Z03576981Q90O2OMNFLK9",
+        "Name": "windrivers.com.",
+        "CallerReference": "53AD4E55-AD56-94EF-9346-C7422983F406",
+        "Config": {
+            "Comment": "Forum site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 14
+    },
+    {
+        "Id": "/hostedzone/Z03572235IMRG3MDWMU7",
+        "Name": "virtualdr.com.",
+        "CallerReference": "B54E3B56-F6E6-655F-9F9A-50CFED6B2EBD",
+        "Config": {
+            "Comment": "Forum site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 13
+    },
+    {
+        "Id": "/hostedzone/Z0932943QQP1SBSE0MI2",
+        "Name": "baselinemag.com.",
+        "CallerReference": "95757254-025e-4ac1-b370-2bdea90ae4ab",
+        "Config": {
+            "Comment": "QS-hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 45
+    },
+    {
+        "Id": "/hostedzone/Z09325641DER7S08N391R",
+        "Name": "linuxtoday.com.",
+        "CallerReference": "7732db5f-eb9a-4876-ae6b-4adbbd7f173f",
+        "Config": {
+            "Comment": "WPEngine Hosted Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 29
+    },
+    {
+        "Id": "/hostedzone/Z09319372XOA2787L0DGA",
+        "Name": "linuxplanet.com.",
+        "CallerReference": "8fe0a2ac-6318-4ec9-bf4d-7e258ae38776",
+        "Config": {
+            "Comment": "QS-hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 10
+    },
+    {
+        "Id": "/hostedzone/Z09313883E5X1IT4U0MSM",
+        "Name": "internetnews.com.",
+        "CallerReference": "5659d7ed-095d-498b-ae7a-129bcca764df",
+        "Config": {
+            "Comment": "WPEngine Hosted Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 17
+    },
+    {
+        "Id": "/hostedzone/Z0930881Y0C8ZCJZPU4M",
+        "Name": "freevbcode.com.",
+        "CallerReference": "470e5d19-0f69-417d-ab2a-27e9aae66a2b",
+        "Config": {
+            "Comment": "QS-hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 9
+    },
+    {
+        "Id": "/hostedzone/Z06306702H1AX2ABSJVFC",
+        "Name": "eweek-test.com.",
+        "CallerReference": "033c0417-0c85-4b0b-9001-3c931e4bf2e4",
+        "Config": {
+            "Comment": "",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z03776991DX7V5IXC1D0P",
+        "Name": "activebizpros.com.",
+        "CallerReference": "ce762d3c-cc31-4cb6-a5e8-d4ab6388c4a2",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z03772603IY96Y2QAG45R",
+        "Name": "activeitpro.cn.",
+        "CallerReference": "7c458b39-d766-414d-bdfc-78ff7246737f",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z037709135MBWP80EP9GD",
+        "Name": "activeitpros.com.au.",
+        "CallerReference": "cadfacac-c70e-4c0a-8b4d-91c016541cda",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z03769522Q2LL3LY90M6E",
+        "Name": "activebizpros.com.au.",
+        "CallerReference": "d7ea9d06-1b8d-4a96-a45e-b6bab9df560b",
+        "Config": {
+            "Comment": "tr site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z03848731OMT3YXABDOUF",
+        "Name": "activetechpro.org.",
+        "CallerReference": "f276e508-e545-4de8-a391-0090b6643c22",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z038414817JTCV044NCIT",
+        "Name": "activetechpros.net.",
+        "CallerReference": "2d23bfe1-6409-4ccc-897e-a9de5d497ff2",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z038429627APZEYIRKYS0",
+        "Name": "activebizpro.fr.",
+        "CallerReference": "d66fe62d-ea59-4cf3-a3ea-a155c0936495",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z0384204B1ZIAHSZEYEH",
+        "Name": "activedeveloper.com.",
+        "CallerReference": "faf69e1c-771f-46a2-8883-00f2b146a3c7",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z0384066XYE2ZCFMXCFH",
+        "Name": "activeitpro.org.",
+        "CallerReference": "3e0e1669-b7ec-4672-b4a9-c05ddde7dcc2",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z03836893E1IG4C52JYEV",
+        "Name": "activetechpros.co.uk.",
+        "CallerReference": "7a9ecb9a-6650-4e1b-add5-6046bf2455d8",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z03837431VEA2ZOMIALO3",
+        "Name": "activetechpros.sg.",
+        "CallerReference": "897de899-cac5-4a72-b315-cccffa68e102",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z0431132DEP773VZ0K1S",
+        "Name": "techsrepublic.com.",
+        "CallerReference": "c4518faf-4e1d-4964-9f52-2c8c0ed79ecf",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z0430545Z5JNYUPU5J2L",
+        "Name": "techrepublicpro.com.",
+        "CallerReference": "b7fb921b-4ba6-401d-a2c2-53059effd948",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z04546401WADYQ96XJPBA",
+        "Name": "techrepublic.uk.",
+        "CallerReference": "b90c8579-1aa1-44ec-bc72-78015972d4d8",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z045418233F2OFMCXPGQ1",
+        "Name": "techrepublicasia.com.",
+        "CallerReference": "9a77756a-9ef3-4dce-b1f6-75ddfa1f444d",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z04535532FAPD9IL42WPH",
+        "Name": "tehrepublic.com.",
+        "CallerReference": "08899a60-db56-4465-818d-2a71eec7d3fc",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z01951141KP2BVP4OP177",
+        "Name": "databasejournal.com.",
+        "CallerReference": "BEB14E5D-3660-771A-A3A9-2FD6B9B1A3EF",
+        "Config": {
+            "Comment": "Forum site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 22
+    },
+    {
+        "Id": "/hostedzone/Z0685193KPF6WJTR3KP0",
+        "Name": "serverwatch.com.",
+        "CallerReference": "AEA698D9-0016-8DA6-A06B-0A6F54FF4D1A",
+        "Config": {
+            "Comment": "WP Engine hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 9
+    },
+    {
+        "Id": "/hostedzone/Z08834811WOERCUH8937X",
+        "Name": "esecurityplanet.com.",
+        "CallerReference": "d469fae5-4a14-4a72-bcc5-ee1a0343c382",
+        "Config": {
+            "Comment": "WP Engine hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 13
+    },
+    {
+        "Id": "/hostedzone/Z01988232O98RX33UY1J0",
+        "Name": "htmlgoodies.com.",
+        "CallerReference": "bc79f292-eb0f-48cc-93a2-e7e2f6374f57",
+        "Config": {
+            "Comment": "WP Engine hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 11
+    },
+    {
+        "Id": "/hostedzone/Z019870128V9EJDAZ4LZE",
+        "Name": "itsmwatch.com.",
+        "CallerReference": "a0f392f1-5477-488e-863d-7eafbaa40d09",
+        "Config": {
+            "Comment": "QS-hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 10
+    },
+    {
+        "Id": "/hostedzone/Z01982602WCGHPLTQ3IOX",
+        "Name": "enterpriseappstoday.com.",
+        "CallerReference": "82545b65-0d28-4a7a-9469-7deeb078314b",
+        "Config": {
+            "Comment": "QS-hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 14
+    },
+    {
+        "Id": "/hostedzone/Z019767314QIW13794MIH",
+        "Name": "sqlcourse.com.",
+        "CallerReference": "9d792857-a83c-44eb-b282-8ec5ca55bba4",
+        "Config": {
+            "Comment": "QS-hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 9
+    },
+    {
+        "Id": "/hostedzone/Z01975741JUK5MU7H6B61",
+        "Name": "eseminarslive.com.",
+        "CallerReference": "0a912c68-9ad0-4640-bae9-db32c2d4da4b",
+        "Config": {
+            "Comment": "QS-hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 8
+    },
+    {
+        "Id": "/hostedzone/Z01976201I04F226UDHD7",
+        "Name": "linux-mag.com.",
+        "CallerReference": "24dbfdf0-be9a-438b-b7b6-4b1ad8ab0d26",
+        "Config": {
+            "Comment": "QS-hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 7
+    },
+    {
+        "Id": "/hostedzone/Z02047372MG425EQNLPO6",
+        "Name": "sqlcourse2.com.",
+        "CallerReference": "c10d8c95-e3bf-49b9-8ccc-f31cfe260d81",
+        "Config": {
+            "Comment": "QS-hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 9
+    },
+    {
+        "Id": "/hostedzone/Z02043052QTMF922RL7NX",
+        "Name": "whitepaperfinder.com.",
+        "CallerReference": "456880b6-bd85-4ead-9138-dde68201016b",
+        "Config": {
+            "Comment": "QS-hosted site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 9
+    },
+    {
+        "Id": "/hostedzone/Z00638173020TUG7YGUK6",
+        "Name": "activebizpro.co.uk.",
+        "CallerReference": "34d6271a-a839-43f7-a147-26a0ac03b55b",
+        "Config": {
+            "Comment": "TR site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z0062881OR7QPL6J5PIM",
+        "Name": "activebizpros.com.tw.",
+        "CallerReference": "a2dc93dd-f4fd-41be-841c-c756c670f087",
+        "Config": {
+            "Comment": "TR Site\n",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z0062665V91I0S7D9J71",
+        "Name": "activeitpros.com.",
+        "CallerReference": "168d706a-c268-4705-a610-6da8f96b72fc",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z00626503SJ2O63QXPGFK",
+        "Name": "activetechpro.co.uk.",
+        "CallerReference": "16012f37-af1d-42a0-9931-04a721a1686b",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z00623911U542GLV6FTX7",
+        "Name": "activebizpro.com.au.",
+        "CallerReference": "43e0ca89-9ec6-461f-8b99-3eb208f4a64e",
+        "Config": {
+            "Comment": "TR site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z00622379LK2YBHFFR0P",
+        "Name": "activeitpro.com.cn.",
+        "CallerReference": "690df129-fb7e-48ff-a361-1c02f6be283e",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z0061676H9X9K56P0050",
+        "Name": "itpapers.fr.",
+        "CallerReference": "e9eea587-b397-4d68-8bcb-d9bda529a7c0",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z006167334ZHVKJKOVO0V",
+        "Name": "itpapers.org.",
+        "CallerReference": "1b866628-5685-48bb-b097-e4c59e04277c",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z00615181PI8LTFBCWMVJ",
+        "Name": "activebizpro.com.cn.",
+        "CallerReference": "b9e0b909-0848-43f5-9b85-0959396ca8ca",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z0061525I8WF8O33WGTE",
+        "Name": "activeitpro.co.uk.",
+        "CallerReference": "d2e5b5a2-8fde-40a9-8090-49d7483172c0",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z0053040X12FZSSZVISK",
+        "Name": "activetechpros.com.sg.",
+        "CallerReference": "5e7b9b67-f1e8-48e3-8843-626ffe520b4a",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z005299235YZX6P0OLIT8",
+        "Name": "activetechpros.xxx.",
+        "CallerReference": "722fd48e-dacc-43e1-a5b2-92aec4e22f2c",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z005268729ZLQ8LY7S2YG",
+        "Name": "activetechpro.com.cn.",
+        "CallerReference": "32607ac3-7646-41d0-bcaf-a79d3b2a3276",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z00527014PU5XN8QKRU",
+        "Name": "activetechpro.sg.",
+        "CallerReference": "6a20f46b-e0c0-493a-b735-2edd3197b1d6",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z0052732QVI74H6VOVEZ",
+        "Name": "activetechpros.com.au.",
+        "CallerReference": "41118fbd-fc1a-435e-a519-e0ab43b19ea2",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z0052324UHJJWZZSXHME",
+        "Name": "activeitpros.com.sg.",
+        "CallerReference": "f6cfd441-fe4a-4557-9dff-dbf4009c8a33",
+        "Config": {
+            "Comment": "TR Site\n",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z0052263B5N5V4KTORBT",
+        "Name": "activetechpro.net.",
+        "CallerReference": "5d0bbceb-ede7-4e5f-a022-5a3a51152855",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z0052284JT14EY2Y2US0",
+        "Name": "activetechpros.asia.",
+        "CallerReference": "1e6f9135-f773-499e-bd10-724ef4e05199",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z00513652Z1BSQLZNOCGW",
+        "Name": "activetechpros.com.",
+        "CallerReference": "a84fd2e6-f70a-48db-95b3-cec392d0c5d8",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z00508262KZ6YE50KDVXC",
+        "Name": "itpapers.xxx.",
+        "CallerReference": "a0ff229f-0413-45c1-a217-3375e62dff6f",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z00861482W83NS7XXPXLK",
+        "Name": "techproguild.com.",
+        "CallerReference": "15591196-c096-45f7-9a11-1914677a660d",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 5
+    },
+    {
+        "Id": "/hostedzone/Z010846722QRJITB2QMXX",
+        "Name": "techprofessionalguild.com.",
+        "CallerReference": "88ee6e2c-3191-4ce2-9774-0de4aaf43836",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z01072846PH1CGNSROA1",
+        "Name": "techerpublic.com.",
+        "CallerReference": "77033877-a28c-409c-bafd-47a469967ba9",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 2
+    },
+    {
+        "Id": "/hostedzone/Z01068902LYI0XQ4BY7GO",
+        "Name": "techrepublic.co.uk.",
+        "CallerReference": "e4b28480-e31e-4aac-be5c-a55feb531603",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z01069196JPGXK4O57TU",
+        "Name": "techrepublic.in.",
+        "CallerReference": "045089a1-9bb0-431e-a226-2015472ae9b7",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z0106637KVE9FUX31H8Y",
+        "Name": "techreplublic.com.",
+        "CallerReference": "56abbf7f-c1bf-4d35-97a6-0ad566a1b809",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z01066792GAD2L29IQMT0",
+        "Name": "techrepubli.com.",
+        "CallerReference": "c708674e-f8e9-42be-8a0e-06bd675b22b0",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z0106654C3UIE75LS1CN",
+        "Name": "techrepublic.co.",
+        "CallerReference": "dc4ddbd2-6f4e-4bb8-ba9f-2206fb9cfe6c",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z01065653DBQ4LPUXVUL9",
+        "Name": "techrepublic.eu.",
+        "CallerReference": "b09d3e66-6cbe-48d5-9436-5053e9ca9a9c",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z0114066365SFLL43KX9X",
+        "Name": "techrepublic.jp.",
+        "CallerReference": "b28dee94-0bcd-42e8-9c6f-9ad2b81d2080",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z01129112AKLB8PVKEPNC",
+        "Name": "techrepublic.us.",
+        "CallerReference": "74a9a413-8170-4eec-a2ec-5c1a95564da7",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z01121221L5HIE24TERD",
+        "Name": "trdojo.com.",
+        "CallerReference": "ec4ba145-511e-40e1-b20f-9b4283644848",
+        "Config": {
+            "Comment": "TR Sites",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 5
+    },
+    {
+        "Id": "/hostedzone/Z011171814G9TCNJK5IX6",
+        "Name": "techrepublicpress.com.",
+        "CallerReference": "8fa37fea-0ddf-4240-ae80-eadcde4d1130",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z0111280292O4PM0QWZ9H",
+        "Name": "techrepublic.review.",
+        "CallerReference": "a08273be-09fb-427b-aaa0-50f266b3e8ad",
+        "Config": {
+            "Comment": "TR Site",
+            "PrivateZone": false
+        },
+        "ResourceRecordSetCount": 4
+    },
+    {
+        "Id": "/hostedzone/Z047438730921KXWDEM5M",
+        "Name": "dev.internal.relay.cool.",
+        "CallerReference": "terraform-20210622130615106800000001",
+        "Config": {
+            "Comment": "Managed by Terraform",
+            "PrivateZone": true
+        },
+        "ResourceRecordSetCount": 3
+    },
+    {
+        "Id": "/hostedzone/Z03920992UQ05V7MUBNDE",
+        "Name": "prod.internal.relay.cool.",
+        "CallerReference": "terraform-20210710133209181700000001",
+        "Config": {
+            "Comment": "Managed by Terraform",
+            "PrivateZone": true
+        },
+        "ResourceRecordSetCount": 3
+    },
+    {
+        "Id": "/hostedzone/Z06080552OJXIHUQUGK7X",
+        "Name": "internal.concourse.relay.cool.",
+        "CallerReference": "terraform-20210730101437152600000001",
+        "Config": {
+            "Comment": "Managed by Terraform",
+            "PrivateZone": true
+        },
+        "ResourceRecordSetCount": 3
+    }
+]
