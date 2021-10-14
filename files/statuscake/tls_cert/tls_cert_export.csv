@@ -1,0 +1,34 @@
+id,domain,valid_from_utc,valid_until_utc,remaining_days,issuer_cn,subject_cn,cipher,protocol,status,score,strength,revoked,expired,broken,missing,extended
+224006,https://technologyadvice.com/,"2021-10-08 01:27:00","2022-01-06 01:27:00",84,R3,technologyadvice.com,TLS_CHACHA20_POLY1305_SHA256,TLSv1.3,CERT_OK,95,100,0,0,0,0,0
+224007,https://project-management.com/,"2021-09-29 19:26:00","2021-12-28 19:26:00",75,R3,project-management.com,TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384,TLSv1.2,CERT_OK,92,94,0,0,0,0,0
+224008,https://ctoadvice.co/,"2021-09-14 18:28:00","2021-12-13 18:28:00",60,R3,advicebrands.com,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLSv1.2,CERT_OK,95,100,0,0,0,0,0
+224009,https://ctoadvice.co/,"2021-09-14 18:28:00","2021-12-13 18:28:00",60,R3,advicebrands.com,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLSv1.2,CERT_OK,95,100,0,0,0,0,0
+224069,https://advicebrands.com/,"2021-09-14 18:28:00","2021-12-13 18:28:00",60,R3,advicebrands.com,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLSv1.2,CERT_OK,95,100,0,0,0,0,0
+224070,https://cfoadvice.co/,"2021-09-14 18:28:00","2021-12-13 18:28:00",60,R3,advicebrands.com,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLSv1.2,CERT_OK,95,100,0,0,0,0,0
+224071,https://hradvice.co/,"2021-09-14 18:28:00","2021-12-13 18:28:00",60,R3,advicebrands.com,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLSv1.2,CERT_OK,95,100,0,0,0,0,0
+224072,https://cmoadvice.co/,"2021-09-14 18:28:00","2021-12-13 18:28:00",60,R3,advicebrands.com,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLSv1.2,CERT_OK,95,100,0,0,0,0,0
+224073,https://customeradvice.co/,"2021-09-14 18:28:00","2021-12-13 18:28:00",60,R3,advicebrands.com,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLSv1.2,CERT_OK,95,100,0,0,0,0,0
+224074,https://managementadvice.co/,"2021-09-14 18:28:00","2021-12-13 18:28:00",60,R3,advicebrands.com,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLSv1.2,CERT_OK,95,100,0,0,0,0,0
+224076,https://salesadvice.biz/,"2021-09-14 18:28:00","2021-12-13 18:28:00",60,R3,advicebrands.com,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLSv1.2,CERT_OK,95,100,0,0,0,0,0
+224077,https://itbusinessguides.com/,"2021-09-14 03:39:00","2021-12-13 03:39:00",60,R3,webdisk.itbusinessguides.com,TLS_AES_256_GCM_SHA384,TLSv1.3,CERT_OK,95,100,0,0,0,0,0
+224079,https://www.baselinemag.com/,"2021-10-01 17:53:00","2021-12-30 17:53:00",77,R3,freevbcode.com,TLS_RSA_WITH_AES_128_CBC_SHA,TLSv1.2,CERT_OK,40,40,0,0,0,0,0
+224080,https://www.enterprisemobiletoday.com/,"2021-10-01 17:53:00","2021-12-30 17:53:00",77,R3,freevbcode.com,TLS_RSA_WITH_AES_128_CBC_SHA,TLSv1.2,CERT_OK,40,40,0,0,0,0,0
+224081,https://www.enterpriseappstoday.com/,"2021-10-01 17:53:00","2021-12-30 17:53:00",77,R3,freevbcode.com,TLS_RSA_WITH_AES_128_CBC_SHA,TLSv1.2,CERT_OK,40,40,0,0,0,0,0
+224083,https://www.infostor.com/,"2021-10-01 17:53:00","2021-12-30 17:53:00",77,R3,freevbcode.com,TLS_RSA_WITH_AES_128_CBC_SHA,TLSv1.2,CERT_OK,40,40,0,0,0,0,0
+224085,https://www.itsmwatch.com/,"2021-10-01 17:53:00","2021-12-30 17:53:00",77,R3,freevbcode.com,TLS_RSA_WITH_AES_128_CBC_SHA,TLSv1.2,CERT_OK,40,40,0,0,0,0,0
+224086,https://www.jguru.com/,"2021-10-01 17:53:00","2021-12-30 17:53:00",77,R3,freevbcode.com,TLS_RSA_WITH_AES_128_CBC_SHA,TLSv1.2,CERT_OK,40,40,0,0,0,0,0
+224087,https://www.devx.com/,"2021-10-01 17:53:00","2021-12-30 17:53:00",77,R3,freevbcode.com,TLS_RSA_WITH_AES_128_CBC_SHA,TLSv1.2,CERT_OK,40,40,0,0,0,0,0
+224104,https://securityadvice.co/,"2021-09-14 18:28:00","2021-12-13 18:28:00",60,R3,advicebrands.com,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLSv1.2,CERT_OK,95,100,0,0,0,0,0
+224125,https://www.sqlcourse.com/,"2021-10-01 17:53:00","2021-12-30 17:53:00",77,R3,freevbcode.com,TLS_RSA_WITH_AES_128_CBC_SHA,TLSv1.2,CERT_OK,40,40,0,0,0,0,0
+224126,https://www.sqlcourse2.com/,"2021-10-01 17:53:00","2021-12-30 17:53:00",77,R3,freevbcode.com,TLS_RSA_WITH_AES_128_CBC_SHA,TLSv1.2,CERT_OK,40,40,0,0,0,0,0
+224128,https://www.cioinsight.com/,"2021-09-26 16:25:00","2021-12-25 16:25:00",72,R3,www.cioinsight.com,TLS_CHACHA20_POLY1305_SHA256,TLSv1.3,CERT_OK,95,100,0,0,0,0,0
+224131,https://www.codeguru.com/,"2021-08-19 16:16:00","2021-11-17 16:16:00",34,R3,www.codeguru.com,TLS_CHACHA20_POLY1305_SHA256,TLSv1.3,CERT_OK,95,100,0,0,0,0,0
+224133,https://www.databasejournal.com/,"2021-10-08 00:00:00","2022-09-13 23:59:00",335,"GeoTrust RSA CA 2018",www.quinstreet.com,TLS_CHACHA20_POLY1305_SHA256,TLSv1.3,CERT_OK,95,100,0,0,0,0,0
+224134,https://www.databasejournal.com/,"2021-10-08 00:00:00","2022-09-13 23:59:00",335,"GeoTrust RSA CA 2018",www.quinstreet.com,TLS_CHACHA20_POLY1305_SHA256,TLSv1.3,CERT_OK,95,100,0,0,0,0,0
+224143,https://www.antionline.com/,"2021-06-10 00:00:00","2022-07-09 23:59:00",269,Amazon,antionline.com,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLSv1.2,CERT_OK,95,100,0,0,0,0,0
+224144,https://www.dbasupport.com/forums/,"2021-06-10 00:00:00","2022-07-09 23:59:00",269,Amazon,dbasupport.com,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLSv1.2,CERT_OK,95,100,0,0,0,0,0
+224145,https://www.sysopt.com/,"2021-06-10 00:00:00","2022-07-09 23:59:00",269,Amazon,sysopt.com,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLSv1.2,CERT_OK,95,100,0,0,0,0,0
+224146,https://www.vbforums.com/,"2021-06-10 00:00:00","2022-07-09 23:59:00",269,Amazon,vbforums.com,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLSv1.2,CERT_OK,95,100,0,0,0,0,0
+224150,https://mobile.baselinemag.com,"2021-10-01 17:53:00","2021-12-30 17:53:00",77,R3,freevbcode.com,TLS_RSA_WITH_AES_128_CBC_SHA,TLSv1.2,CERT_OK,40,40,0,0,0,0,0
+224152,https://mobile.cioinsight.com,"2021-09-30 14:32:00","2021-12-29 14:32:00",76,R3,mobile.cioinsight.com,TLS_CHACHA20_POLY1305_SHA256,TLSv1.3,CERT_OK,95,100,0,0,0,0,0
+224153,https://mobile.enterpriseappstoday.com,"2021-10-01 17:53:00","2021-12-30 17:53:00",77,R3,freevbcode.com,TLS_RSA_WITH_AES_128_CBC_SHA,TLSv1.2,CERT_OK,40,40,0,0,0,0,0
