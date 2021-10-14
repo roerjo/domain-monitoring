@@ -65,7 +65,7 @@ for row in csv_reader:
 
         if (result.status_code < 300):
             parsed_obj = urllib.parse.urlparse(result.url)
-            parsed_result = parsed_obj.netloc + parsed_obj.path
+            parsed_result = parsed_obj.netloc
             parsed_result = parsed_result.rstrip('/')
 
             if ("dnserrorassist" in result.text):
@@ -73,7 +73,7 @@ for row in csv_reader:
                 csv_writer_all.writerow([site, "do not put in StatusCake", "redirecting to search engine", result.status_code])
             if (parsed_result not in existing_list):
                 csv_writer_good.writerow([site, result.url, result.status_code, result.reason])
-                csv_writer_all.writerow([site, "add to StatusCake", result.url, result.status_code])
+                csv_writer_all.writerow([site, "add to StatusCake", parsed_result, result.status_code])
             else:
                 csv_writer_all.writerow([site, "already exists in StatusCake", parsed_result, result.status_code])
         else:
@@ -88,7 +88,7 @@ for row in csv_reader:
 print(f'Total of {line_count} sites')
 
 good_results_file.close()
-good_results_file = open('./files/statuscake/uptime/good_results.csv')
+good_results_file = open('./files/statuscake/tls_cert/good_results.csv')
 
 csv_reader_good_results = csv.reader(good_results_file, delimiter=',')
 
