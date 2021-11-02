@@ -43,20 +43,15 @@ for file in fileArray:
         if (hostSite not in mainDomainsList) and (hostSite not in allDomainsList):
             mainDomainsList.append(hostSite)
             allDomainsList.append(hostSite)
+            topDomainsWriter.writerow([hostSite,row[0]])
+            allDomainsWriter.writerow([hostSite,row[0]])
         
         # Add all A and CNAME record domains (subdomains) to the all_domains.csv
         if (row[4] == 'A' or row[4] == 'CNAME') and (dnsSite not in allDomainsList):
             allDomainsList.append(dnsSite)
+            allDomainsWriter.writerow([dnsSite,row[0]])
 
     currentFile.close()
-
-# Write main domain list to CSV file
-for domain in mainDomainsList:
-    topDomainsWriter.writerow([domain])
-    
-# Wirte main and subdomain list to CSV file
-for domain in allDomainsList:
-    allDomainsWriter.writerow([domain])
 
 # Close files
 combinedRecordsFile.close()

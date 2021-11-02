@@ -54,13 +54,14 @@ line_count = 0
 # Parse the input CSV
 for row in csv_reader:
     site = row[0].rstrip(".")
+    account = row[1]
 
     print(f'Making requst to {site}')
 
     # Check if site already exists in DataDog
     if (site in existing_list):
         csv_writer_existed.writerow([site])
-        csv_writer_all.writerow([site, "already exists in DataDog", site])
+        csv_writer_all.writerow([site, "already exists in DataDog", site, account])
         continue        
 
     # Make request to site to see if we get a 2xx response
@@ -76,20 +77,20 @@ for row in csv_reader:
             parsed_result = parsed_result.rstrip('/')
 
             if ("dnserrorassist" in result.text):
-                csv_writer_bad.writerow([site, str(result.status_code) + " response"])
-                csv_writer_all.writerow([site, "do not put in DataDog", "redirecting to search engine", result.status_code])
+                csv_writer_bad.writerow([site, str(result.status_code) + " response", account])
+                csv_writer_all.writerow([site, "do not put in DataDog", "redirecting to search engine", result.status_code, account])
             if (parsed_result not in existing_list):
-                csv_writer_good.writerow([site, result.url, result.status_code, result.reason])
-                csv_writer_all.writerow([site, "add to DataDog", parsed_result, result.status_code])
+                csv_writer_good.writerow([site, result.url, result.status_code, result.reason, account])
+                csv_writer_all.writerow([site, "add to DataDog", parsed_result, result.status_code, account])
             else:
                 csv_writer_all.writerow([site, "already exists in DataDog", parsed_result, result.status_code])
         else:
-            csv_writer_bad.writerow([site, str(result.status_code) + " response"])
-            csv_writer_all.writerow([site, "do not put in DataDog", result.url, result.status_code])
+            csv_writer_bad.writerow([site, str(result.status_code) + " response", account])
+            csv_writer_all.writerow([site, "do not put in DataDog", result.url, result.status_code, account])
     except Exception as e:
         print(e)
-        csv_writer_bad.writerow([site, str(e)])
-        csv_writer_all.writerow([site, "do not put in DataDog", "error", "error", str(e)])
+        csv_writer_bad.writerow([site, str(e), account])
+        csv_writer_all.writerow([site, "do not put in DataDog", "error", "error", str(e), account])
     line_count += 1
 
 print(f'Total of {line_count} sites')
@@ -104,13 +105,14 @@ unique_list = []
 # Discover which sites we need to add tests for
 for row in csv_reader_good_results:
     good_website = row[1]
+    account = row[4]
     parsed_obj = urllib.parse.urlparse(good_website)
     parsed_result = parsed_obj.netloc
     parsed_result = parsed_result.rstrip('/')
 
     if ((parsed_result not in unique_list) and (parsed_result not in existing_list)):
         unique_list.append(parsed_result)
-        csv_writer_create.writerow([parsed_result, good_website])
+        csv_writer_create.writerow([parsed_result, good_website, account])
 
 # Tidy up
 csv_file.close()

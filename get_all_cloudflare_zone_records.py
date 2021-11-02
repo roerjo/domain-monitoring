@@ -60,6 +60,6 @@ for record in resultJson:
     recordTTL = record.get('ttl', "N/A")
     recordValues = record.get('content',"N/A")
     recordAlias = "N/A"
-    dnsRecordsWriter.writerow(["Cloudflare", hostedZoneName, hostedZoneId, recordName, recordType, recordTTL, recordValues, recordAlias])
+    dnsRecordsWriter.writerow(["cloudflare", hostedZoneName, hostedZoneId, recordName, recordType, recordTTL, recordValues, recordAlias])
 
 dnsRecordsFile.close()
