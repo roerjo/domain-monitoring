@@ -31,8 +31,18 @@ python combine_all_records.py ./files/aws/aws_new_account_dns_records.csv ./file
 
 `python get_statuscake_uptime_status.py`
 
-## Run StatusCake TLS certificate check on results of combining records:
+## Run DataDog TLS certificate check on results of combining records:
 
-`python get_statuscake_cert_status.py`
+```sh
+export DD_SITE="datadoghq.com" DD_API_KEY="<API-KEY>" DD_APP_KEY="<APP-KEY>"
+python get_datadog_cert_status.py
+```
+
+## Create DataDog TLS tests based on results in create_test.csv:
+
+```sh
+export DD_SITE="datadoghq.com" DD_API_KEY="<API-KEY>" DD_APP_KEY="<APP-KEY>"
+python create_datadog_tls_test.py
+```
 
 ## Update Google Sheets with results

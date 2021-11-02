@@ -1,0 +1,121 @@
+import csv
+import requests
+import urllib
+from datadog_api_client.v1 import ApiClient, ApiException, Configuration
+from datadog_api_client.v1.api import synthetics_api
+from datadog_api_client.v1.models import *
+
+# Open files
+csv_file = open('./files/all_domains_file.csv')
+all_results_file = open('./files/datadog/tls_cert/all_tls_cert_results.csv', 'w', newline="")
+good_results_file = open('./files/datadog/tls_cert/good_results.csv', 'w', newline="")
+bad_results_file = open('./files/datadog/tls_cert/bad_results.csv', 'w', newline="")
+already_existed_file = open('./files/datadog/tls_cert/already_existed.csv', 'w', newline="")
+create_tests_file = open('./files/datadog/tls_cert/create_test.csv', 'w', newline="")
+
+# Get CSV readers and writers
+csv_reader = csv.reader(csv_file, delimiter=',')
+csv_writer_all = csv.writer(all_results_file, quoting=csv.QUOTE_ALL)
+csv_writer_good = csv.writer(good_results_file, quoting=csv.QUOTE_ALL)
+csv_writer_bad = csv.writer(bad_results_file, quoting=csv.QUOTE_ALL)
+csv_writer_existed = csv.writer(already_existed_file, quoting=csv.QUOTE_ALL)
+csv_writer_create = csv.writer(create_tests_file, quoting=csv.QUOTE_ALL)
+
+# See configuration.py for a list of all supported configuration parameters.
+configuration = Configuration()
+
+# Enter a context with an instance of the API client
+with ApiClient(configuration) as api_client:
+    # Create an instance of the API class
+    api_instance = synthetics_api.SyntheticsApi(api_client)
+
+    # example, this endpoint has no required or optional parameters
+    try:
+        # Get the list of all tests
+        api_response = api_instance.list_tests()
+    except ApiException as e:
+        print("Exception when calling SyntheticsApi->list_tests: %s\n" % e)
+
+#print(api_response['tests'][0]['config']['request']['host'])
+#quit()
+# Initialize empty list of sites that existed in DataDog
+existing_list = []
+
+export_line_count = 0
+
+# Fill list of hostnames that existed in DataDog
+for test in api_response['tests']:
+    existing_list.append(test['config']['request']['host'])
+
+print(existing_list)
+
+line_count = 0
+
+# Parse the input CSV
+for row in csv_reader:
+    site = row[0].rstrip(".")
+
+    print(f'Making requst to {site}')
+
+    # Check if site already exists in DataDog
+    if (site in existing_list):
+        csv_writer_existed.writerow([site])
+        csv_writer_all.writerow([site, "already exists in DataDog", site])
+        continue        
+
+    # Make request to site to see if we get a 2xx response
+    try:
+        headers = {
+            'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36'
+        }
+        result = requests.get('https://' + site, timeout=10, headers=headers, verify=False, allow_redirects=True)
+
+        if (result.status_code < 300):
+            parsed_obj = urllib.parse.urlparse(result.url)
+            parsed_result = parsed_obj.netloc
+            parsed_result = parsed_result.rstrip('/')
+
+            if ("dnserrorassist" in result.text):
+                csv_writer_bad.writerow([site, str(result.status_code) + " response"])
+                csv_writer_all.writerow([site, "do not put in DataDog", "redirecting to search engine", result.status_code])
+            if (parsed_result not in existing_list):
+                csv_writer_good.writerow([site, result.url, result.status_code, result.reason])
+                csv_writer_all.writerow([site, "add to DataDog", parsed_result, result.status_code])
+            else:
+                csv_writer_all.writerow([site, "already exists in DataDog", parsed_result, result.status_code])
+        else:
+            csv_writer_bad.writerow([site, str(result.status_code) + " response"])
+            csv_writer_all.writerow([site, "do not put in DataDog", result.url, result.status_code])
+    except Exception as e:
+        print(e)
+        csv_writer_bad.writerow([site, str(e)])
+        csv_writer_all.writerow([site, "do not put in DataDog", "error", "error", str(e)])
+    line_count += 1
+
+print(f'Total of {line_count} sites')
+
+good_results_file.close()
+good_results_file = open('./files/datadog/tls_cert/good_results.csv')
+
+csv_reader_good_results = csv.reader(good_results_file, delimiter=',')
+
+unique_list = []
+
+# Discover which sites we need to add tests for
+for row in csv_reader_good_results:
+    good_website = row[1]
+    parsed_obj = urllib.parse.urlparse(good_website)
+    parsed_result = parsed_obj.netloc
+    parsed_result = parsed_result.rstrip('/')
+
+    if ((parsed_result not in unique_list) and (parsed_result not in existing_list)):
+        unique_list.append(parsed_result)
+        csv_writer_create.writerow([parsed_result, good_website])
+
+# Tidy up
+csv_file.close()
+all_results_file.close()
+good_results_file.close()
+bad_results_file.close()
+already_existed_file.close()
+create_tests_file.close()
