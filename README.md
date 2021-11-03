@@ -41,8 +41,7 @@ python get_datadog_cert_status.py
 ## Create DataDog TLS tests based on results in create_test.csv:
 
 ```sh
-export DD_SITE="datadoghq.com" DD_API_KEY="<API-KEY>" DD_APP_KEY="<APP-KEY>"
-python create_datadog_tls_test.py
+python create_datadog_tls_test.py --api-key <api_key> --app-key <app_key>
 ```
 
 ## Update Google Sheets with results

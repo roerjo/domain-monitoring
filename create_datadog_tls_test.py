@@ -97,10 +97,7 @@ for row in csv_reader_create:
             headers=headers,
             json=json
         )
-        print(result.json())
     except Exception as e:
         print(e)
-        break
-    break
-    quit()
+
 create_tests_file.close()

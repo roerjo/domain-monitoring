@@ -56,7 +56,7 @@ for row in csv_reader:
     site = row[0].rstrip(".")
     account = row[1]
 
-    print(f'Making requst to {site}')
+    print(f'Making request to {site}')
 
     # Check if site already exists in DataDog
     if (site in existing_list):
@@ -101,6 +101,8 @@ good_results_file = open('./files/datadog/tls_cert/good_results.csv')
 csv_reader_good_results = csv.reader(good_results_file, delimiter=',')
 
 unique_list = []
+prefix_exclude_list = ['ftp', 'mail', 'email', 'mg']
+blacklist = []
 
 # Discover which sites we need to add tests for
 for row in csv_reader_good_results:
@@ -110,7 +112,12 @@ for row in csv_reader_good_results:
     parsed_result = parsed_obj.netloc
     parsed_result = parsed_result.rstrip('/')
 
-    if ((parsed_result not in unique_list) and (parsed_result not in existing_list)):
+    if (
+        (parsed_result not in unique_list) and 
+        (parsed_result not in existing_list) and
+        (parsed_result not in blacklist) and
+        (list(filter(parsed_result.startswith, prefix_exclude_list)) == [])
+    ):
         unique_list.append(parsed_result)
         csv_writer_create.writerow([parsed_result, good_website, account])
 
